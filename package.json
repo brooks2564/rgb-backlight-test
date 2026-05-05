@@ -1,0 +1,17 @@
+{
+  "name": "rgb-backlight-test",
+  "author": "Brooman Inks",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "RGB Backlight Test",
+    "uuid": "d9b84c3d-6aa1-411d-830b-ecc077b88fcf",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": ["emery"],
+    "watchapp": { "watchface": false },
+    "resources": { "media": [] }
+  }
+}
